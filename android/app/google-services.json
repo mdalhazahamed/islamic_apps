@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "198342084922",
+    "project_id": "islamiczone-9cb04",
+    "storage_bucket": "islamiczone-9cb04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198342084922:android:bc8bc617b603e88e752803",
+        "android_client_info": {
+          "package_name": "com.example.islamic_zone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198342084922-l50lm7l63tbceshorv6ln18d5midbbf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.islamic_zone",
+            "certificate_hash": "37d4d251518684cd21fae3883e0d081cdc3c14e3"
+          }
+        },
+        {
+          "client_id": "198342084922-nd2mhd9137ip20ua83fp3ore7v8q306t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz-YlZeVkkUqcq3TpXkyy9VVQFBjaS9ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198342084922-nd2mhd9137ip20ua83fp3ore7v8q306t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
